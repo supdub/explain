@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain"
+  short_description: "Create offline visual HTML explainers"
+  default_prompt: "Use $explain to create a visual HTML explanation of this topic."
